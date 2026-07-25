@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Stradi/monorepo-setup"
   },
+  "type": "module",
   "devDependencies": {
     "@commitlint/cli": "^21.2.1",
     "@commitlint/config-conventional": "^21.2.0",
